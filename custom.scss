@@ -1,0 +1,10 @@
+/*-- scss:defaults --*/
+$h6-font-size:          12px !default;
+$h5-font-size:          14px !default;
+$headings-font-weight:  600 !default;
+$body-color:            $gray-700 !default;
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, .3);
+}
